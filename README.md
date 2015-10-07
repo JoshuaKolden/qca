@@ -23,13 +23,8 @@ Have fun,
 
 Date: November 6th, 2014
 
-
 ## Install
-For installation or compiling instructions, see the [INSTALL](/blob/master/INSTALL) file.
-
-## License
-This library is licensed under the Lesser GNU General Public License.  See
-the COPYING file for more information.
+For installation or compiling instructions, see the [INSTALL](INSTALL) file.
 
 ## Changes
 
@@ -116,4 +111,6 @@ Special Thanks:
 - Steve Reid, for the public domain SHA1 implementation
 - Jason Kim, for the CMS Signer graphics
 
-
+## License
+This library is licensed under the Lesser GNU General Public License.  See
+the [LICENSE](LICENSE) file for more information.
