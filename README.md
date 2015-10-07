@@ -1,4 +1,5 @@
-# Qt Cryptographic Architecture (QCA) version 2.1.0
+# Qt Cryptographic Architecture (QCA)
+### version 2.1.0
 
 QCA is a library that provides an easy API for a range of cryptographic
 features, including SSL/TLS, X.509 certificates, SASL, OpenPGP, smartcards,
@@ -12,23 +13,23 @@ upgrading a crypto plugin.
 In order for QCA to be of much use, you'll want to install some plugins.
 
 QCA was originally created to support the security needs of the
-Psi XMPP/Jabber client project ( http://psi-im.org/ ).
+Psi XMPP/Jabber client project (http://psi-im.org/).
 
-API Documentation is located in the 'apidocs' subdirectory.
+Doxygen generated API Documentation will be located in the 'apidocs' subdirectory on build.
 
 Have fun,
+
 -Justin
+
 Date: November 6th, 2014
 
 
 ## Install
-  For installation or compiling instructions, see the INSTALL file.
-
+For installation or compiling instructions, see the [INSTALL](/blob/master/INSTALL) file.
 
 ## License
-  This library is licensed under the Lesser GNU General Public License.  See
-  the COPYING file for more information.
-
+This library is licensed under the Lesser GNU General Public License.  See
+the COPYING file for more information.
 
 ## Changes
 
@@ -88,18 +89,23 @@ Date: November 6th, 2014
 ### More Info
 
 Website: __http://delta.affinix.com/qca/__
+
 Mailing List: __Delta Project <delta@lists.affinix.com>__
 
 ### Acknowledgements
 
 Project Lead/Maintainer (2003-current):
+  
   Justin Karneges <justin@affinix.com>
+  
   (March 2007 - August 2007 under Barracuda Networks employment)
 
 Development, Documentation, Unittests (2004-2009):
+  
   Brad Hards <bradh@frogmouth.net>
 
 Development (2013-current)
+  
   Ivan Romanov <drizt@land.ru>
 
 Special Thanks:
